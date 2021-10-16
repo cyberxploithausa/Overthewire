@@ -1,0 +1,23 @@
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+
+
+~~~~~Commands used ~~~~~~~~
+
+
+cat data.txt
+
+echo "VGhlIHBhc3N3b3JkIGlzIElGdWt3S0dzRlc4TU9xM0lSRnFyeEUxaHhUTkViVVBSCg==" | base64 -d
+
+
+base64 -d <<< 'VGhlIHBhc3N3b3JkIGlzIElGdWt3S0dzRlc4TU9xM0lSRnFyeEUxaHhUTkViVVBSCg=='                         The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+
+
++++python
+
+"VGhlIHBhc3N3b3JkIGlzIElGdWt3S0dzRlc4TU9xM0lSRnFyeEUxaHhUTkViVVBSCg==".decode('base64')
+
+
+
+import base64
+base64.b64decode("VGhlIHBhc3N3b3JkIGlzIElGdWt3S0dzRlc4TU9xM0lSRnFyeEUxaHhUTkViVVBSCg==")
+

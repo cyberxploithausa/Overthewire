@@ -1,0 +1,22 @@
+
+
+
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
+
+~~~~commands used~~~
+ls -la
+
+cd inhere/
+
+ls -la
+
+find . -type f | xargs file
+
+
+cat ./-file07
+
+
+or
+
+

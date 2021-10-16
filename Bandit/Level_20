@@ -1,0 +1,33 @@
+
+
+~~~commands used~~~
+
+
+First Terminal
+
+on bandit20@bandit
+
+~~~~commands~~~
+
+cat /etc/bandit_pass/bandi20 | nc -l localhost -p 1234
+
+
+
+Secomd Terminal
+
+on bandit20@bandit
+
+~~~~commands~~~~
+
+ls
+
+./suconnect 1234
+
+
+
+~~~~Password Obtainned~~~~~
+
+
+gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+
+

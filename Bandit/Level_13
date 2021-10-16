@@ -1,0 +1,14 @@
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+
+
+
+~~~~~Commands used ~~~~
+
+
+ls
+
+
+ssh -i sshkeys.private bandit14@localhost
+
+
+

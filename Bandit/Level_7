@@ -1,0 +1,7 @@
+cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+
+
+~~~commands used~~~~~
+
+strings data.txt | grep "millonth"
+

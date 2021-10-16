@@ -1,0 +1,29 @@
+
+
+~~~commands used~~~
+
+ls -la
+
+diff --normal password.old password.new
+
+or
+
+diff -s password.old password.new
+
+
+password =   kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+
+
+ssh -T bandit18@bandit.lavs.overthewire.org -p 2220
+
+or 
+
+ssh -t bandit18@bandit.lavs.overthewire.org -p 2220 /bin/sh
+
+ls
+
+cat readme
+
+
+
+IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x

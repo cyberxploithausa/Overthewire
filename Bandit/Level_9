@@ -1,0 +1,13 @@
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+
+
+~~~~~Commands used ~~~~~
+
+
+strings data.txt | sort | uniq -u 
+
+strings data.txt | sort | uniq -u | grep "="
+
+strings data.txt | sort | grep "="
+
+strings data.txt | grep "="

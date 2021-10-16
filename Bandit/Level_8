@@ -1,0 +1,9 @@
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+
+~~~~Commands used~~~~~~
+
+
+strings data.txt | uniq -u
+
+
+

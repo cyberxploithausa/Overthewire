@@ -1,0 +1,13 @@
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+
+
+
+~~~~~~Long process~~~~~
+
+xxd -r data.txt
+
+bzip2 -d file.bz2
+
+gzip -d file.gz
+
+tar xf fike.tar

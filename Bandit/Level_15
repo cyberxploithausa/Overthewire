@@ -1,0 +1,48 @@
+command used
+
+
+nc localhost 30000
+
+paste prev. pass
+
+or 
+
+ncat localhost 30000
+
+paste prev. pasww
+
+or 
+
+telnet localhost 30000
+
+paste prev. passw
+
+
+run from bandit14
+~~~Using netcat [nc]
+
+BfMYroe26WYalil77FoDi9qh59eK5xNr
+
+nc localhost 30000
+
+then paste prev password
+
+
+~~~~using telnet~~~~
+
+run from bandit14
+
+telnet -a localhost 30000
+
+then paste prev passwd
+
+
+
+
+ssh keys
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDGSQ4TzdbZw5PshaEVz1o9ppCZAN2DO5cK/6mlkdr75u5KQ36CDS1yvsXDw0sZrn5TN5zasSDRaZ568HXcAihinQxnIROrjq36OT2m43BnAi31eAFm58a1kTBZsVbD+9Us3A5cF7hRZK0ZFbOA+kR5K/lNvVWMtkgF0amFMgrbYCbPpltOEyyIyfIlp8TAn9Pw9A7ebJL3W9QcS6g4wDOhQgPiQ3QwRnf5dqHIrQclWrrwqxU5t59cbW+8DcYAnb2TElqq9F+BiepmvJY3vDcIeM1Thz/YmSn6fwvRKfFo0D5ZgDuOI/JMXSKzy7MyVhDiXUvOH/z8ym+EJAXyvbZ3 rudy@localhost
+
+password
+
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e

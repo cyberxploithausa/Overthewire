@@ -1,0 +1,17 @@
+
+
+
+~~~Using openssl~~~~
+
+openssl s_client -crlf -connect localhost:30001 -servername localhost
+
+
+then paste prev password lev15
+
+
+
+
+password
+
+cluFn7wTiGryunymYOu4RcffSxQluehd
+
